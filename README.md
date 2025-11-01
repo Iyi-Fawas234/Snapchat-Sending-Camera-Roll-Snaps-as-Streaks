@@ -1,0 +1,1 @@
+A snap streak is a feature that tracks the number of consecutive days users have been exchanging snaps. While it is straightforward to send a snap taken in real time, sharing a camera roll snap requires a few extra steps.
